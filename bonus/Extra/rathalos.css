@@ -1,0 +1,24 @@
+.container {
+    width: 1080px;
+    margin: 100px auto;
+}
+
+.main {
+    background: #B43D0F;
+}
+
+.sec {
+    background: #0D1D3C;
+}
+
+.wingdark {
+    background: #8D5B40;
+}
+
+.winglight {
+    background: #C0A168;
+}
+
+.eye {
+    background: #61A4AF;
+}
