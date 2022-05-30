@@ -1,0 +1,49 @@
+.bg-blue {
+    background-color: #006CFA;
+}
+
+.b-white {
+    border: 1px solid white;
+}
+
+.c-white {
+    color: white;
+}
+
+.bg-green {
+    background-color: #00E165;
+    border: 1px solid #006CFA;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.h-50 {
+    height: 50px;
+}
+
+.h-100 {
+    height: 100px;
+}
+
+
+
+@media all and (max-width: 768px) {
+
+    .bg-pink {
+        background-color: pink;
+    }
+    
+    .col-md-offset-0 {
+        margin-left: calc((100% / 12) * 0);
+    }
+}
